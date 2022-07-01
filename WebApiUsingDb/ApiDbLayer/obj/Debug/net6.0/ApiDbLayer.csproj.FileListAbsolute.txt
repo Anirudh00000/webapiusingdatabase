@@ -1,0 +1,14 @@
+C:\Users\ANI\source\repos\WebApiUsingDb\ApiDbLayer\bin\Debug\net6.0\ApiDbLayer.deps.json
+C:\Users\ANI\source\repos\WebApiUsingDb\ApiDbLayer\bin\Debug\net6.0\ApiDbLayer.runtimeconfig.json
+C:\Users\ANI\source\repos\WebApiUsingDb\ApiDbLayer\bin\Debug\net6.0\ApiDbLayer.dll
+C:\Users\ANI\source\repos\WebApiUsingDb\ApiDbLayer\bin\Debug\net6.0\ApiDbLayer.pdb
+C:\Users\ANI\source\repos\WebApiUsingDb\ApiDbLayer\obj\Debug\net6.0\ApiDbLayer.csproj.AssemblyReference.cache
+C:\Users\ANI\source\repos\WebApiUsingDb\ApiDbLayer\obj\Debug\net6.0\ApiDbLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANI\source\repos\WebApiUsingDb\ApiDbLayer\obj\Debug\net6.0\ApiDbLayer.AssemblyInfoInputs.cache
+C:\Users\ANI\source\repos\WebApiUsingDb\ApiDbLayer\obj\Debug\net6.0\ApiDbLayer.AssemblyInfo.cs
+C:\Users\ANI\source\repos\WebApiUsingDb\ApiDbLayer\obj\Debug\net6.0\ApiDbLayer.csproj.CoreCompileInputs.cache
+C:\Users\ANI\source\repos\WebApiUsingDb\ApiDbLayer\obj\Debug\net6.0\ApiDbLayer.dll
+C:\Users\ANI\source\repos\WebApiUsingDb\ApiDbLayer\obj\Debug\net6.0\refint\ApiDbLayer.dll
+C:\Users\ANI\source\repos\WebApiUsingDb\ApiDbLayer\obj\Debug\net6.0\ApiDbLayer.pdb
+C:\Users\ANI\source\repos\WebApiUsingDb\ApiDbLayer\obj\Debug\net6.0\ApiDbLayer.genruntimeconfig.cache
+C:\Users\ANI\source\repos\WebApiUsingDb\ApiDbLayer\obj\Debug\net6.0\ref\ApiDbLayer.dll
